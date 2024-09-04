@@ -1,8 +1,15 @@
-# React + Vite
+# Blog project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Blog project** — это фулл-стек веб-приложение, преставляющее собой блог
 
-Currently, two official plugins are available:
+## Функциональные возможности
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Просмотр, добавление, редактирование и удаление постов
+- Просмотр всех постов выбранного автора
+- Добавление реакций на посты
+  
+## Стек технологий
+
+ HTML, CSS, JavaScript, React, React Router DOM, Vite, Redux, Axios
+
+  
